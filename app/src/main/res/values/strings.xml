@@ -1,0 +1,13 @@
+<resources>
+    <!-- <string name="app_name">MAD155Module6AlohaMusic</string> -->
+    <string name="app_name">Aloha Music</string>
+
+    <string name="txt_splash">Sounds of Hawaii</string>
+    <string name="imgUkulele">Ukulele Image</string>
+    <string name="imgDrums">Drums Image</string>
+    <string name="btnUkulele">Play Ukulele Song</string>
+    <string name="btnDrums">Play Drums Song</string>
+    <string name="txt_play_music">Play Music</string>
+
+
+</resources>
