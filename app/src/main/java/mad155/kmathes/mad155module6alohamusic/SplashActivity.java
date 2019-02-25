@@ -21,6 +21,7 @@ public class SplashActivity extends AppCompatActivity {
                 startActivity(new Intent(SplashActivity.this, MainActivity.class));
             }
         };
+
         Timer opening1 = new Timer();
         opening1.schedule(task1, 5000); //1000 milliseconds = approx 1 second in real time
 
